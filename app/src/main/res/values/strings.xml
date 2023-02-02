@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsAssessmentApplication</string>
+    <string name="news">News</string>
+    <string name="top_news">Top News</string>
+    <string name="global">Global</string>
+    <string name="popular_news">Popular News</string>
+</resources>
